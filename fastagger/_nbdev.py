@@ -10,7 +10,7 @@ index = {"AlreadyImportedError": "00_core.ipynb",
 
 modules = ["core.py"]
 
-doc_url = "https://fabraz.github.io/fastagger/"
+doc_url = "https://fabraz.github.io/vigilant/"
 
 git_url = "https://github.com/fabraz/fastagger/tree/master/"
 
